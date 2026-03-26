@@ -10,6 +10,7 @@ Our official SMTP SDKs make it easy to send emails through KirimEmail's reliable
 - **Node.js SDK**: https://github.com/kirimemail/kirimemail-smtp-node-sdk
 - **PHP SDK**: https://github.com/kirimemail/kirimemail-smtp-php-sdk
 - **Go SDK**: https://github.com/kirimemail/kirimemail-smtp-go-sdk
+- **Zig SDK**: https://github.com/kirimemail/kirimemail-smtp-zig-sdk
 
 ## Other Repositories
 
